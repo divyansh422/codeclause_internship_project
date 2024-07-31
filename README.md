@@ -21,8 +21,10 @@ Requirements:
 Libraries required : opencv-python, face_recognition
 Files required (uploaded here) : simple_facerec.py, face_recognition.ipynb
 
-1. Select a sample photo of a person for the algorithm to learn from, and place the photo in the 'encoding_images' folder before running the cells in the .ipynb file. For clarity purposes,    name the photo file as the name of the person
+1. Create a folder named 'encoding_images' and keep the folder in the same directory as this ipynb file.
 
-2. Press 'esc' to end the live video stream after it has begun
+2. Select a sample photo of a person for the algorithm to learn from, and place the photo in the 'encoding_images' folder before running the cells in the .ipynb file. For clarity purposes,    name the photo file as the name of the person
 
-3. The code will be able to recognize the person in the live video stream if it finds their photo in the 'encoding_images' folder¶
+3. Press 'esc' to end the live video stream after it has begun
+
+4. The code will be able to recognize the person in the live video stream if it finds their photo in the 'encoding_images' folder¶
