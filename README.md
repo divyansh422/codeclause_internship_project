@@ -22,6 +22,8 @@ Libraries required : opencv-python, face_recognition
 Files required (uploaded here) : simple_facerec.py, face_recognition.ipynb
 
 1. Create a folder named 'encoding_images' and keep the folder in the same directory as this ipynb file.
+![image](https://github.com/user-attachments/assets/77b74a63-0bbb-47dc-98fa-dedae7fe9797)
+
 
 2. Select a sample photo of a person for the algorithm to learn from, and place the photo in the 'encoding_images' folder before running the cells in the .ipynb file. For clarity purposes,    name the photo file as the name of the person
 
